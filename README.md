@@ -1,9 +1,9 @@
 ## Hi, I'm Mingyu Lee
 
-Studying at Kookmin University.
+Department of Information Security, Cryptology, and Mathematics
+Kookmin University
 
 - 🔗 [Personal site](https://snowcat44.github.io)
-- 📫 Contact: 
 
 ### Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
