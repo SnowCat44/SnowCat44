@@ -1,6 +1,6 @@
 ## Hi, I'm Mingyu Lee
 
-Department of Information Security, Cryptology, and Mathematics
+Department of Information Security, Cryptology, and Mathematics  
 Kookmin University
 
 - 🔗 [Personal site](https://snowcat44.github.io)
