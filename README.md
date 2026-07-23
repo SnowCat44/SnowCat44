@@ -2,7 +2,6 @@
 
 Studying at Kookmin University.
 
-- 🌱 Currently learning: 
 - 🔗 [Personal site](https://snowcat44.github.io)
 - 📫 Contact: 
 
